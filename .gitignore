@@ -13,3 +13,13 @@
 /Lectures/.ipynb_checkpoints/
 /Lectures/Lecture 1/.ipynb_checkpoints/
 /Lectures/Lecture 3/.ipynb_checkpoints/
+/.ipynb_checkpoints/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
